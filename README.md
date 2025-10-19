@@ -1,8 +1,4 @@
-# 🗑 THIS PROJECT IS DEPRECATED 🗑
 
-**Please uninstall PiVPN and upgrade to [WireGuard Easy](https://github.com/WeeJeWel/wg-easy). It's much simpler and better! 🎉**
-
----
 
 # PiVPN Web
 
